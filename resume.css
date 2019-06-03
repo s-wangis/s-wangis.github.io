@@ -1,0 +1,26 @@
+body{
+	background-color: pink;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 16px;
+	max-width: 900px;
+	margin: auto;
+}
+
+h2{
+	margin-top: 48px;
+	margin-bottom: 0;
+}
+
+li{
+	padding:10px;
+}
+
+
+ul ul {
+	padding-left: 32 px;
+}
+
+.date{
+	font-style: italic;
+}
+
